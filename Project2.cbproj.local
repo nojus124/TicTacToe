@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/05/26 13:05:40.801,=C:\Users\Nojus\OneDrive\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2022/05/26 13:05:40.849,=C:\Users\Nojus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2022/05/26 14:40:01.800,C:\Users\Nojus\OneDrive\Documents\Embarcadero\Studio\Projects\tictactoe\Unit2.cpp=C:\Users\Nojus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2022/05/26 14:40:01.800,C:\Users\Nojus\OneDrive\Documents\Embarcadero\Studio\Projects\tictactoe\Unit2.h=C:\Users\Nojus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2022/05/26 14:40:01.800,C:\Users\Nojus\OneDrive\Documents\Embarcadero\Studio\Projects\tictactoe\Unit2.dfm=C:\Users\Nojus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/05/26 14:40:04.056,C:\Users\Nojus\OneDrive\Documents\Embarcadero\Studio\Projects\tictactoe\Project2PCH1.h=C:\Users\Nojus\OneDrive\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2022/05/26 14:40:06.073,C:\Users\Nojus\OneDrive\Documents\Embarcadero\Studio\Projects\tictactoe\Project2.cbproj=C:\Users\Nojus\OneDrive\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
